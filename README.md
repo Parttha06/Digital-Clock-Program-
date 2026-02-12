@@ -4,7 +4,7 @@ A sleek and modern Digital Clock built with HTML, CSS, and JavaScript. Displays 
 
 ## 📸 Preview
 
-![Digital Clock Demo](<img width="1919" height="1079" alt="Screenshot 2025-12-25 220741" src="https://github.com/user-attachments/assets/46035df9-56ba-41cb-ac8f-308600e32495" />
+![Digital Clock Demo](<img width="1919" height="1079" alt="Screenshot 2025-12-25 220741" src="https://github.com/user-attachments/assets/8865f58a-5031-457e-9177-619829ce5e35" />
 )
 > *Add a screenshot of your Digital Clock here!*
 
